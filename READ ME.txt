@@ -1,0 +1,72 @@
+# TicTâche — Gestionnaire de tâches
+
+## Description
+
+TicTâche est une application de gestion de tâches (To-Do List) simple et efficace.
+Elle permet de créer, organiser et suivre vos tâches quotidiennes avec une interface intuitive.
+
+Aucune installation de dépendances supplémentaire n’est requise
+
+## Fonctionnalités
+
+* Création, modification et suppression de tâches
+* Gestion des dates et heures d’échéance
+* Notifications de rappel
+* Mode clair / sombre
+* Personnalisation des couleurs
+* Recherche rapide de tâches
+* Gestion de plusieurs bases de données
+* Nettoyage automatique des anciennes tâches
+* Affichage optionnel des descriptions
+* Raccourcis clavier intégrés
+
+## Raccourcis clavier
+
+Ctrl + N            : Nouvelle tâche
+Ctrl + F            : Rechercher
+Ctrl + O            : Ouvrir une base
+Ctrl + Q            : Quitter
+F2                  : Paramètres
+F5                  : Rafraîchir
+Ctrl + H            : Masquer/Afficher tâches terminées
+Ctrl + Shift + D    : Afficher/Masquer description
+
+## Installation / Utilisation
+
+1. Télécharger le fichier TicTâche Vxxx.zip (avec les fichiers associés)
+2. Extraire l'archive et placer le dossier "TicTâche" à l'endroit souhaité (Exemple: Bureau, Documents…)
+3. Lancer l’application en double-cliquant sur TicTâche.exe
+4. (Optionnel) Créer un raccourci sur le bureau pour un accès rapide
+
+## ⚠️Important⚠️
+
+* Le fichier config.json est fourni avec l’application et doit rester dans le même dossier que TicTâche.exe
+* Si le fichier config.json est déplacé ou supprimé, l’application en recréera automatiquement un nouveau (vierge)
+* Dans ce cas, la configuration précédente sera perdue tant que l’ancien fichier config.json n’est pas replacé dans le dossier
+* Pour lancer l’application depuis le bureau, il est recommandé de créer un raccourci plutôt que de déplacer les fichiers
+* Il est possible de créer et gérer plusieurs bases de données de tâches selon vos besoins
+
+## Fichiers générés
+
+* config.json        : Fichier de configuration utilisateur
+* *.db               : Bases de données des tâches (plusieurs possibles)
+
+## ✉️ Support et retours
+
+Si vous rencontrez un "bug" ou si vous avez une suggestion d’amélioration, vous pouvez me contacter à l’adresse suivante :
+
+[tictache.support@gmail.com]
+
+## Notes
+
+* Les données sont stockées localement sur votre ordinateur
+* Aucune connexion internet n’est nécessaire
+* L’application est conçue pour un usage personnel
+
+## Auteur
+
+Tom Lecocq
+
+## Licence
+
+Tous droits réservés
