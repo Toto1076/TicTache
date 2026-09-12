@@ -1,8 +1,8 @@
-# TicTâche — Gestionnaire de tâches
+# Tic'Tâche — Gestionnaire de tâches
 
 ## Description
 
-TicTâche est une application de gestion de tâches (To-Do List) simple et efficace.
+Tic'Tâche est une application de gestion de tâches (To-Do List) simple et efficace.
 Elle permet de créer, organiser et suivre vos tâches quotidiennes avec une interface intuitive.
 
 Aucune installation de dépendances supplémentaire n’est requise
@@ -25,16 +25,17 @@ Aucune installation de dépendances supplémentaire n’est requise
 Ctrl + N            : Nouvelle tâche
 Ctrl + F            : Rechercher
 Ctrl + O            : Ouvrir une base
-Ctrl + Q            : Quitter
+F11                 : Afficher/Quitter mode plein écran
 F2                  : Paramètres
 F5                  : Rafraîchir
 Ctrl + H            : Masquer/Afficher tâches terminées
 Ctrl + Shift + D    : Afficher/Masquer description
+Ctrl + Q            : Quitter
 
 ## Installation / Utilisation
 
-1. Télécharger le fichier TicTâche Vxxx.zip (avec les fichiers associés)
-2. Extraire l'archive et placer le dossier "TicTâche" à l'endroit souhaité (Exemple: Bureau, Documents…)
+1. Télécharger le fichier Tic'Tâche V2.5.zip (avec les fichiers associés)
+2. Extraire l'archive et placer le dossier "Tic'Tâche" à l'endroit souhaité (Exemple: Bureau, Documents…)
 3. Lancer l’application en double-cliquant sur TicTâche.exe
 4. (Optionnel) Créer un raccourci sur le bureau pour un accès rapide
 
